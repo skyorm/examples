@@ -1,0 +1,7 @@
+github.com/lib/pq v1.10.2 h1:AqzbZs4ZoCBp+GtejcpCpcxM3zlSMx29dXbUSeVtJb8=
+github.com/lib/pq v1.10.2/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/skyorm/postgres v0.0.0-20210604133556-b834210e3983 h1:TVWiY4rCL50s0betul1v+l2A527gpHaLukbOOsxRmp8=
+github.com/skyorm/postgres v0.0.0-20210604133556-b834210e3983/go.mod h1:SssaTsIJwJXaMPJwQ+mxxya6Paaykw31MLLSE8actjY=
+github.com/skyorm/skyorm v0.0.0-20210604132240-d470da3a7314/go.mod h1:WQgVOZbqxJeLM9wo9LsNBHjs+Rj8VCu3uUMjfZciXCE=
+github.com/skyorm/skyorm v0.0.0-20210604133508-cd298d987714 h1:nc0NvgAVKr8dkFma6i/zT1auFE8IXpxqb9NlY2LqsF4=
+github.com/skyorm/skyorm v0.0.0-20210604133508-cd298d987714/go.mod h1:WQgVOZbqxJeLM9wo9LsNBHjs+Rj8VCu3uUMjfZciXCE=
